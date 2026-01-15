@@ -1,16 +1,5 @@
 /* ===== SUGGESTIONS SECTION (TRAVEL CARDS) ===== */
 
-body {
-    font-family: 'Poppins', sans-serif;
-    background: #ffffff;
-    color: #333;
-    line-height: 1.5;
-    padding: 2%;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 .main-container {
     width: 100%;
@@ -391,10 +380,6 @@ body {
 }
 
 @media (max-width: 480px) {
-    body {
-        padding: 5%;
-    }
-
     .main-title {
         font-size: 1.7em;
     }
